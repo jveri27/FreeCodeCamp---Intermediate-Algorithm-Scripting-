@@ -1,1 +1,1 @@
-# FreeCodeCamp---Bonfires
+# FreeCodeCamp---Intermediate Algorithm Scripting  
