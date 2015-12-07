@@ -1,7 +1,7 @@
-Bonfire: Diff Two Arrays
+/*Bonfire: Diff Two Arrays
 
 Compare two arrays and return a new array with any items only found in one of the original arrays.
-
+*/
 function diff(arr1, arr2) {
   var newArr = [];
   // Same, same; but different.
